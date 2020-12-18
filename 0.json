@@ -2,8 +2,8 @@
     "name": "PPA",
     "description": "Pagos pendientes de aplicar",
     "properties": {
-        "fechaDesde": "18/11/2020",
-        "fechaHasta": "18/11/2022",
+        "fechaDesde": "18/12/2020",
+        "fechaHasta": "05/01/2023",
         "whiteList": []
     }
 }
