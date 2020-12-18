@@ -1,0 +1,9 @@
+{
+    "name": "DBI",
+    "description": "Dto Beneficio Inmobiliario",
+    "properties": {
+        "fechaDesde": "01/01/2021",
+        "fechaHasta": "31/12/2021",
+        "whiteList": []
+    }
+}
