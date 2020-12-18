@@ -1,0 +1,10 @@
+
+{
+    "name": "PPS",
+    "description": "Pagos pendientes de Sucerp",
+    "properties": {
+        "fechaDesde": "18/11/2020",
+        "fechaHasta": "15/12/2021",
+        "whiteList": []
+    }
+}
